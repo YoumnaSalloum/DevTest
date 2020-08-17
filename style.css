@@ -1,0 +1,44 @@
+#topRow {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid;
+    justify-content: center;
+}
+
+#cat {
+    border: 1px solid;
+}
+
+#dog {
+    border: 1px solid;
+}
+
+.meo {
+    margin: 15px 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.status {
+    width: 350px;
+    border: 1px solid;
+}
+
+.healthlabel {
+    font: 18pt Arial;
+    font-weight: bold;
+}
+
+.hpBorder {
+    width: 350px;
+    height: 30px;
+    border: 3px solid;
+}
+
+.hpBar {
+    width: 350px;
+    background-color: green;
+}
